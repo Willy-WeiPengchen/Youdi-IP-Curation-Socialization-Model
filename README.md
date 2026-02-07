@@ -13,7 +13,7 @@ Author: 韦朋辰 (Wei Pengchen)，独立研究者。
 
 首发公开：该模型于 2026年2月7日 通过本人自媒体渠道（微信公众平台、今日头条等）率先公开发布。
 
-法定存证：本文本及模型核心构思已于发布当日，通过国家授时中心可信时间戳服务中心完成全链路数字存证，权属清晰、可溯可验。
+法定存证：本文本及模型核心构思已于发布当日，通过国家授时中心可信时间戳服务中心完成全链路数字存证，权属清晰、可溯可验。All core technical content was timestamped via China National Time Service Center prior to patent filing (Feb 5, 2026).
 
 专利依据：本模型核心实现方法已提交国家发明专利申请，申请号：2026101693096。
 
